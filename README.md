@@ -21,7 +21,7 @@ OpenAI API key: You will need an OpenAI API key to access the GPT-3 model and ma
 * **index_path**: The path to the pickle file that stores the FAISS index.
 * **openai_api_key**: Your OpenAI API key.
 
-## How to run
+## Usage
 1. Install packages
 ```python 
 pip install requiremetns.txt
