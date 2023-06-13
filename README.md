@@ -6,7 +6,7 @@ This project utilizes the GPT-3 model from OpenAI to create a customer support c
 ## Dataset
 Dataset
 The dataset used for training the customer support chatbot is the [Customer Support on Twitter dataset](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter). It provides a 
-collection of customer support interactions on Twitter, which serves as the basis for training the chatbot to respond to user queries effectively.
+collection of customer support interactions on Twitter.
 
 ## Prerequisites
 OpenAI API key: You will need an OpenAI API key to access the GPT-3 model and make API calls.
